@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:38.410+01:00</Created>
+        <LastChange>2021-02-06T21:39:16.148+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846824" pageNr="231" tsid="52094620" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=RMKCOGTZKULJYKAXMGFYKSSE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XSQPVCNUIXFGDACIHDQMYDFT" imageId="18303290"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0240.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613033218422" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="r1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="400,899 400,1239 983,1239 983,899"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="642,1059 668,1059 695,1062 722,1064 749,1062 776,1052 776,923 749,933 722,935 695,933 668,930 642,930"/>
+                <Baseline points="642,1016 668,1016 695,1019 722,1021 749,1019 776,1009"/>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="400,1232 429,1233 458,1233 487,1233 516,1234 545,1234 574,1235 604,1235 633,1236 662,1236 691,1237 720,1237 749,1238 778,1238 808,1239 837,1239 866,1239 895,1239 924,1239 953,1239 983,1239 983,1110 953,1110 924,1110 895,1110 866,1110 837,1110 808,1110 778,1109 749,1109 720,1108 691,1108 662,1107 633,1107 604,1106 574,1106 545,1105 516,1105 487,1104 458,1104 429,1104 400,1103"/>
+                <Baseline points="400,1189 429,1190 458,1190 487,1190 516,1191 545,1191 574,1192 604,1192 633,1193 662,1193 691,1194 720,1194 749,1195 778,1195 808,1196 837,1196 866,1196 895,1196 924,1196 953,1196 983,1196"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

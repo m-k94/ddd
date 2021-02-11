@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:30.840+01:00</Created>
+        <LastChange>2021-02-03T12:33:39.941+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846412" pageNr="1" tsid="51965250" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=IJBZVQILZJDMSIVUXHDNAHRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AITHSQKIMAEJEJVJDLDVGWVX" imageId="18302878"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0010.jpg" imageWidth="1444" imageHeight="2597" type="front-cover">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613032992227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="186,376 186,2567 1247,2567 1247,376"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="489,461 515,462 541,462 568,463 594,463 620,464 647,464 673,464 699,464 726,464 752,464 778,463 805,463 831,463 857,463 884,463 910,463 937,462 937,377 910,378 884,378 857,378 831,378 805,378 778,378 752,379 726,379 699,379 673,379 647,379 620,379 594,378 568,378 541,377 515,377 489,376"/>
+                <Baseline points="489,433 515,434 541,434 568,435 594,435 620,436 647,436 673,436 699,436 726,436 752,436 778,435 805,435 831,435 857,435 884,435 910,435 937,434"/>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="688,613 724,613 760,615 760,530 724,528 688,528"/>
+                <Baseline points="688,585 724,585 760,587"/>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="186,812 239,810 292,809 345,807 398,807 451,806 504,806 557,806 610,806 663,806 716,806 769,807 822,807 875,808 928,808 981,809 1034,810 1087,810 1140,811 1193,811 1247,812 1247,727 1193,726 1140,726 1087,725 1034,725 981,724 928,723 875,723 822,722 769,722 716,721 663,721 610,721 557,721 504,721 451,721 398,722 345,722 292,724 239,725 186,727"/>
+                <Baseline points="186,784 239,782 292,781 345,779 398,779 451,778 504,778 557,778 610,778 663,778 716,778 769,779 822,779 875,780 928,780 981,781 1034,782 1087,782 1140,783 1193,783 1247,784"/>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="409,998 441,1000 474,1000 506,1001 539,1001 571,1001 604,1001 637,1001 669,1001 702,1001 734,1001 767,1000 799,1000 832,1000 865,1000 897,1000 930,1000 962,1001 995,1002 1028,1003 1028,918 995,917 962,916 930,915 897,915 865,915 832,915 799,915 767,915 734,916 702,916 669,916 637,916 604,916 571,916 539,916 506,916 474,915 441,915 409,913"/>
+                <Baseline points="409,970 441,972 474,972 506,973 539,973 571,973 604,973 637,973 669,973 702,973 734,973 767,972 799,972 832,972 865,972 897,972 930,972 962,973 995,974 1028,975"/>
+            </TextLine>
+            <TextLine id="line_1612351836607_136" custom="readingOrder {index:4;}">
+                <Coords points="699,1102 748,1102 748,1152 699,1152"/>
+                <Baseline points="699,1147 748,1147"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="492,1348 517,1348 543,1348 569,1347 595,1347 621,1347 647,1347 673,1347 699,1347 725,1347 750,1347 776,1347 802,1347 828,1346 854,1346 880,1345 906,1345 932,1344 958,1343 958,1258 932,1259 906,1260 880,1260 854,1261 828,1261 802,1262 776,1262 750,1262 725,1262 699,1262 673,1262 647,1262 621,1262 595,1262 569,1262 543,1263 517,1263 492,1263"/>
+                <Baseline points="492,1320 517,1320 543,1320 569,1319 595,1319 621,1319 647,1319 673,1319 699,1319 725,1319 750,1319 776,1319 802,1319 828,1318 854,1318 880,1317 906,1317 932,1316 958,1315"/>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:6;}">
+                <Coords points="617,1858 644,1859 671,1859 698,1859 725,1859 752,1859 779,1858 807,1858 807,1794 779,1794 752,1795 725,1795 698,1795 671,1795 644,1795 617,1794"/>
+                <Baseline points="617,1837 644,1838 671,1838 698,1838 725,1838 752,1838 779,1837 807,1837"/>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:7;}">
+                <Coords points="327,1945 365,1945 404,1945 442,1945 481,1946 520,1946 558,1946 597,1946 636,1946 674,1946 713,1945 752,1945 790,1945 829,1945 868,1945 906,1945 945,1945 984,1945 1022,1946 1061,1946 1100,1946 1100,1885 1061,1885 1022,1885 984,1884 945,1884 906,1884 868,1884 829,1884 790,1884 752,1884 713,1884 674,1885 636,1885 597,1885 558,1885 520,1885 481,1885 442,1884 404,1884 365,1884 327,1884"/>
+                <Baseline points="327,1925 365,1925 404,1925 442,1925 481,1926 520,1926 558,1926 597,1926 636,1926 674,1926 713,1925 752,1925 790,1925 829,1925 868,1925 906,1925 945,1925 984,1925 1022,1926 1061,1926 1100,1926"/>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:8;}">
+                <Coords points="666,2029 697,2029 728,2029 760,2031 760,1970 728,1968 697,1968 666,1968"/>
+                <Baseline points="666,2009 697,2009 728,2009 760,2011"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

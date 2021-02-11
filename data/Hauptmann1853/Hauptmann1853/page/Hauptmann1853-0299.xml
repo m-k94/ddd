@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:39.817+01:00</Created>
+        <LastChange>2021-02-07T22:09:03.588+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23846929" pageNr="290" tsid="52118556" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=RADSQWPDCZOOPNGOKXVOSYXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCUIXUMUGSCHXEKAQIHAUWTP" imageId="18303395"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0299.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613033272064" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612732105855_4760"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612732105855_4760" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="186,240 1235,240 1235,289 186,289"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="683,270 719,270 755,270 755,240 719,240 683,240"/>
+                <Baseline points="683,260 719,260 755,260"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612732131712_4767" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="186,289 1235,289 1235,2170 186,2170"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

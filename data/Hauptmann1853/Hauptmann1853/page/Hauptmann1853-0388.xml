@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:41.844+01:00</Created>
+        <LastChange>2021-02-10T23:08:07.467+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23847094" pageNr="379" tsid="52410944" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=CGURDZUQEDWOCBGVJRGZJLWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVKNRGFTDVPDKPNJLUDWJPWY" imageId="18303560"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0388.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613033340115" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612994851006_3174"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="heading" id="TextRegion_1612994851006_3174" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="172,793 1229,793 1229,2101 172,2101"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="651,905 676,908 701,909 726,909 751,913 751,801 726,797 701,797 676,796 651,793"/>
+                <Baseline points="651,868 676,871 701,872 726,872 751,876"/>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="172,1089 224,1088 277,1088 330,1087 383,1087 436,1087 489,1086 541,1086 594,1086 647,1086 700,1086 753,1086 806,1087 859,1087 911,1087 964,1087 1017,1088 1070,1088 1123,1089 1176,1089 1229,1090 1229,991 1176,990 1123,990 1070,989 1017,989 964,988 911,988 859,988 806,988 753,987 700,987 647,987 594,987 541,987 489,987 436,988 383,988 330,988 277,989 224,989 172,990"/>
+                <Baseline points="172,1056 224,1055 277,1055 330,1054 383,1054 436,1054 489,1053 541,1053 594,1053 647,1053 700,1053 753,1053 806,1054 859,1054 911,1054 964,1054 1017,1055 1070,1055 1123,1056 1176,1056 1229,1057"/>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="230,1222 276,1221 323,1220 369,1220 416,1219 463,1219 509,1219 556,1219 602,1219 649,1219 696,1219 742,1219 789,1220 835,1220 882,1221 929,1222 975,1222 1022,1223 1068,1224 1115,1225 1162,1226 1162,1127 1115,1126 1068,1125 1022,1124 975,1123 929,1123 882,1122 835,1121 789,1121 742,1120 696,1120 649,1120 602,1120 556,1120 509,1120 463,1120 416,1120 369,1121 323,1121 276,1122 230,1123"/>
+                <Baseline points="230,1189 276,1188 323,1187 369,1187 416,1186 463,1186 509,1186 556,1186 602,1186 649,1186 696,1186 742,1186 789,1187 835,1187 882,1188 929,1189 975,1189 1022,1190 1068,1191 1115,1192 1162,1193"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#xD;
+&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

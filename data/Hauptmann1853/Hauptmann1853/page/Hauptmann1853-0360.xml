@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-02T15:22:41.200+01:00</Created>
+        <LastChange>2021-02-10T20:19:02.885+01:00</LastChange>
+        <TranskribusMetadata docId="598856" pageId="23847044" pageNr="351" tsid="52382706" status="IN_PROGRESS" userId="74363" imgUrl="https://files.transkribus.eu/Get?id=VVMKMMAENAZMLLERZMXNHHCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJXGMIGMYEOXMXMMYJFYOSVJ" imageId="18303510"/>
+    </Metadata>
+    <Page imageFilename="Hauptmann1853-0360.jpg" imageWidth="1444" imageHeight="2597" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613033321428" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612984670903_33"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612984665701_28"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="page-number" id="TextRegion_1612984670903_33" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="133,237 1212,237 1212,300 133,300"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="644,285 669,288 695,289 721,290 721,242 695,241 669,240 644,237"/>
+                <Baseline points="644,269 669,272 695,273 721,274"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612984686947_37" custom="readingOrder {index:1;} structure {type:floating;}">
+            <Coords points="133,300 1212,300 1212,806 133,806"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1612984665701_28" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="133,806 1212,806 1212,944 133,944"/>
+            <TextLine id="r1l8" custom="readingOrder {index:0;}">
+                <Coords points="241,868 289,869 338,870 386,871 435,871 483,872 532,873 580,873 629,874 677,874 726,875 775,876 823,876 872,877 920,877 969,878 1017,879 1066,880 1114,880 1163,882 1212,883 1212,844 1163,843 1114,841 1066,841 1017,840 969,839 920,838 872,838 823,837 775,837 726,836 677,835 629,835 580,834 532,834 483,833 435,832 386,832 338,831 289,830 241,829"/>
+                <Baseline points="241,855 289,856 338,857 386,858 435,858 483,859 532,860 580,860 629,861 677,861 726,862 775,863 823,863 872,864 920,864 969,865 1017,866 1066,867 1114,867 1163,869 1212,870"/>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:1;}">
+                <Coords points="150,922 176,922 202,923 228,923 254,923 280,923 306,924 332,924 358,924 384,924 410,925 436,925 462,925 488,925 514,926 540,926 567,927 567,888 540,887 514,887 488,886 462,886 436,886 410,886 384,885 358,885 332,885 306,885 280,884 254,884 228,884 202,884 176,883 150,883"/>
+                <Baseline points="150,909 176,909 202,910 228,910 254,910 280,910 306,911 332,911 358,911 384,911 410,912 436,912 462,912 488,912 514,913 540,913 567,914"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1612984715949_46" custom="readingOrder {index:3;} structure {type:floating-continued;}">
+            <Coords points="133,944 1212,944 1212,2175 133,2175"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
